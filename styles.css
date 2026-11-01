@@ -104,7 +104,8 @@ nav .right a span {
 }
 
 .hero-section .headshot img {
-  width: 350px;
+  height:300px;
+  width: 300px;
   border-radius: 50%;
 }
 
@@ -178,10 +179,12 @@ nav .right a span {
 
 .testimony-section .group .person-details img {
   width: 200px;
+  height:200px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 10px;
+  
 }
 
 .testimony-section .group .person-details p {
